@@ -1,0 +1,13 @@
+{
+  "name": "openapi-types",
+  "version": "1.0.0",
+  "description": "types of openapi documents",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "prepare": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bukuta",
+  "license": "MIT"
+}
